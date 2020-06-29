@@ -2,7 +2,7 @@
 
  ## 安装
 
-```shell
+```sh
 npm install anywhere -g
 ```
 
@@ -10,7 +10,7 @@ npm install anywhere -g
 
 后面的数字是端口号，可以不加
 
-```shell
+```sh
 anywhere 8089
 ```
 
