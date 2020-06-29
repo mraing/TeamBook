@@ -6,3 +6,11 @@
 npm install -D stylus stylus-loader
 ```
 
+## 使用
+
+```HTML
+<style lang="stylus" scoped>
+// ...
+</style>
+```
+
