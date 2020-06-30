@@ -5,6 +5,7 @@
 * **Vue技巧**
   
   * [Vue 部署](Vue/VueDeploy.md)
+  * [ test ](Vue/test.md)
 
 * **工具类**
   
