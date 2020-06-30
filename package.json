@@ -1,0 +1,23 @@
+{
+  "name": "teambook",
+  "version": "1.0.0",
+  "description": " 团队协作",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "docsify serve docs --port 3003"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mraing/TeamBook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mraing/TeamBook/issues"
+  },
+  "homepage": "https://github.com/mraing/TeamBook#readme"
+}
