@@ -35,7 +35,7 @@ module.exports = {
 `/dist/` 目录是可以修改的，根据实际的项目需求可以更改这个打包目录
 
 ```javascript
-// config/index.js
+// build/index.js
 module.exports = {
   dev: {
       assetsSubDirectory: 'static',

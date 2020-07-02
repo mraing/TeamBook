@@ -5,6 +5,7 @@
 * **Vue技巧**
   
   * [Vue 部署](Vue/VueDeploy.md)
+  * [Vue循环对象](Vue/Vue循环对象.md)
 
 * **工具类**
   
