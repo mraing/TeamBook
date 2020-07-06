@@ -3,10 +3,12 @@
   * [指南](guide "The greatest guide in the world")
 
 * **Vue技巧**
-  
   * [Vue 部署](Vue/VueDeploy.md)
   * [Vue循环对象](Vue/Vue循环对象.md)
   
+* **JS 技巧**
+  * [循环遍历对象](JavaScript/循环遍历对象.md)  
+
 * **工具类**
   
   * [anywhere 本地服务](Tool/anywhere)
